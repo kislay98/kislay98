@@ -2,7 +2,7 @@
 
 Data/AI engineer in Bengaluru. I build agentic systems and RAG at work, and data infrastructure (CDC, Kafka, Iceberg) on weekends.
 
-Currently on the Data and AI team at Lyric. Previously Hevo Data, where I owned the Debezium-based connector framework, and Microsoft R&D.
+Currently on the Data and AI team at Lyric. Previously Hevo Data and Microsoft R&D.
 
 ## Projects
 
